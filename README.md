@@ -1,4 +1,4 @@
-# PRANA-AI 
+# PRANA-AI-GLAUCOMA-DETECTION
 PRANA-AI is an AI-powered application developed using deep Learning and Artificial Intelligence + AI Chat Assistant.
 A retinal fundus image classifier that screens for glaucoma indicators, with a built-in AI chat assistant (powered by Google Gemini) that explains results in plain language.
 
